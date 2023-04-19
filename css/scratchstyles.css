@@ -76,11 +76,12 @@ iframe {
     padding-top: 1rem;
     padding-bottom: 1rem;
     margin-top: 2%;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
 .footer {
     background-color:rgb(255, 245, 206);
+    width: 100%;
 }

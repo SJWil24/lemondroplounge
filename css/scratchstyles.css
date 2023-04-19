@@ -1,0 +1,86 @@
+body {
+    background-color: cornsilk;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+.head {
+    display: block;
+    position: flex;
+    padding: 1.5%;
+    margin: 1%;
+    border: 2px solid black;
+    text-align: center;
+    background-color: ivory;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.refs {
+    display: inline;
+    font-weight: normal;
+    font-size: small;
+    padding: .2%;
+    border: 1px solid rgb(116, 116, 116);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    left:auto;
+    right: auto;
+    width: 50%;
+    border: 10px solid white;
+}
+
+.caption {
+    font-size: x-small;
+    color:darkslategrey;
+    margin: 0;
+    padding: 1px;
+}
+
+.quotes {
+    display: block;
+    margin-left: 20%;
+    margin-right:20%;
+    margin-top: 1%;
+    padding: 1.5%;
+    background-color:ivory;
+    text-align: left;
+    border: 5px solid white;
+}
+
+.tableauPlaceholder {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: auto;
+    margin-top: 2%;
+    border: 5px solid white;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block;
+}
+
+.youtube {
+    margin-top: 2%;
+    border: 5px solid white;
+}
+
+.py-5 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.footer {
+    background-color:rgb(255, 245, 206);
+}

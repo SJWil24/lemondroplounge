@@ -1,0 +1,41 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.youtube{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     height: 100vh;
+}
+
+ul {
+    display: block;
+    text-align: center;
+  }
+  
+li {
+    display: block;
+    text-align: left;
+  }
+
+.bullet1 {
+    font-weight: bolder;
+    font-size: large;
+  }
+  
+.bullet2 {
+    font-weight: bold;
+    font-size: medium;
+    color: #36404c;
+  }
+  
+.bullet3 {
+    font-weight: normal;
+    font-size: small;
+  }
+
+ul.skill {
+    list-style-type: disc; 
+    /*! This isn't working */
+}
